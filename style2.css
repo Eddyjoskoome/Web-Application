@@ -1,0 +1,28 @@
+.banner{
+    border-radius: 7%;
+    background-color: cyan;
+    color: black;
+    font-family: cursive;
+    font-size:20px;
+    width: 150%;
+    border: 50px black;
+justify-content: center;
+}
+body{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    min-height: 50vh;
+    justify-content: center;
+    background-color: crimson;
+    width: 60%;
+
+}
+.banner h1{
+    text-decoration: underline;
+    text-align: center;
+}
+.button{
+    background-color: black;
+    font-size: 50px;
+}
